@@ -1,0 +1,18 @@
+# 虛擬環境
+.venv/
+venv/
+env/
+
+# Python 快取與編譯檔案
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 套件建置暫存
+build/
+dist/
+
+# 專案執行期間的本地產出檔案
+outputs/
+app.log
+user_settings.json
